@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicoTruco 31 years old electrical engineer.
+- 👋 Hi, I’m @NicoTruco 33 years old electrical engineer.
 - 👀 I’m interested in data science and programming. Still learning tho :P
 - 🌱 I’m currently learning data science with python, and python too. hehe.
 - 💞️ I’m looking to collaborate on any project that allows me to learn a lot.
